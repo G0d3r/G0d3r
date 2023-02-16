@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @G0d3r
 - 👀 I’m interested in programming, new technologies, sports cars.
-- 🌱 I’m currently learning Swift & Python programming language.
+- 🌱 I’m developing my skils with Swift & Python programming languages.
 - 💞️ I’m looking to collaborate on LinkedIn platform or another.
 - 📫 How to reach me - email: ernest.godlewski@icloud.com
 
